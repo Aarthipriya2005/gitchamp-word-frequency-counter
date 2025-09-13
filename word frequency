@@ -1,1 +1,7 @@
+a="kaviya"
+b=input("enter a val:")
+for i in a:
+    if(i==b):
+        i=+1
+        print(i)
 
