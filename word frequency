@@ -1,7 +1,5 @@
-a="kaviya"
-b=input("enter a val:")
-for i in a:
-    if(i==b):
+text = input()
+for i in text:
+    if(i==count):
         i=+1
         print(i)
-
